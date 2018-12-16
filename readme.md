@@ -1,4 +1,4 @@
-Blue Jeans Investing
+## Blue Jeans Investing
 
 Basic layout of the blue jeans investing website is as follows:
 
@@ -13,7 +13,7 @@ index.php - controller for the main home page.
 single.php - controller for the main article page.
 about.php - controller for the about page.
 
-Notes
+### Notes
 
 
 Default setting for the user's tickers are null, and if
