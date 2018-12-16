@@ -1,4 +1,4 @@
-====================== Blue Jeans Investing =============================
+Blue Jeans Investing
 
 Basic layout of the blue jeans investing website is as follows:
 
@@ -13,16 +13,8 @@ index.php - controller for the main home page.
 single.php - controller for the main article page.
 about.php - controller for the about page.
 
------MySQL Logins ----------
+Notes
 
-3 - masterTemplateDBFunctions.php
-3 - dashboard.php -> Controller file
-2 - index.php -> Controller file
-1 - single.php -> Controller file
-
-=======================================================
-=					Notes							  =
-=======================================================
 
 Default setting for the user's tickers are null, and if
 B.J.I. dashboard reads a null ticker, it automatically inserts
